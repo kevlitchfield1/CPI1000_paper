@@ -1,0 +1,2 @@
+gene	mut_no_response	mut_response	wt_no_response	wt_response	Greater_5%	RR_mut	RR_wt	Diff
+CDKN2A (n=62)	51	11	680	246	0.062753036	0.177419355	0.265658747	0.088239392
